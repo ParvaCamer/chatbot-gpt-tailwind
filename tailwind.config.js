@@ -8,7 +8,7 @@ export default {
   ],
   theme: {
     colors: {
-      mainYellow: '#F7DF1E',
+      mainYellow: '#f5dc3d',
       white: colors.white,
     }
   },
